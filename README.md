@@ -1,5 +1,5 @@
 ## Sequence:
 
-- unintialized.c
-- dereference.c
-- null-pointer.c
+- [unintialized.c](./unintialized.c)
+- [dereference.c](./dereference.c)
+- [null-pointer.c](./null-pointer.c)
